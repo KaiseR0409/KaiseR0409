@@ -12,7 +12,7 @@ I'm a Computer Engineer from Concepción, Chile, focused on building full-stack 
 
 ## 🚀 About me
 
-- 🎓 Studying **Computer Engineering** at Instituto Profesional Santo Tomás, Concepción (2022–2026)
+- 🎓 **Computer Engineering** at Instituto Profesional Santo Tomás, Concepción (2022–2026)
 - 💼 Former **Full Stack Developer intern** at [Biobío Comunicaciones](https://www.biobiochile.cl/), working on Biobío TV's web platform
 - 🛠️ Built a complete **pharmacy management system** as my thesis project using Svelte + ASP.NET + SQL Server
 - 📊 Developed **metrics dashboards** and data visualization tools with Vue 3 and Python APIs
