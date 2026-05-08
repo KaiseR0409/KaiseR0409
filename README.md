@@ -4,7 +4,7 @@
 
 I'm a Computer Engineer from Concepción, Chile, focused on building full-stack web applications — from clean, functional frontends to robust APIs and data pipelines. I enjoy turning real-world problems into software that works well and is pleasant to use.
 
-[![LinkedIn](https://img.shields.io/badge/-Fernando_Valderrama-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/FernandoValderramaVega](https://www.linkedin.com/in/fernando-valderrama-vega-32b0b833a/))
+[![LinkedIn](https://img.shields.io/badge/-Fernando_Valderrama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-valderrama-vega-32b0b833a/))
 [![Gmail](https://img.shields.io/badge/-fernandovalderramaignacio@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fernandovalderramaignacio@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Fernando_Valderrama-black?style=flat&logo=github&logoColor=white)](https://github.com/KaiseR0409)
 
